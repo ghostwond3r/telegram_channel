@@ -33,9 +33,6 @@ Usefull telegram for data leaks, tutorials, free course.
 | https://t.me/joinchat/AAAAAFGhhcV9p1Rm2f_Emw | Exploits Market                      |
 | https://t.me/joinchat/AAAAAFNLmVP0ZCy51tNOig | News LolzTeam                        |
 | https://t.me/joinchat/VBAj4Hc6Xki5lG_H       | Data Leaks  Dark Net-a               |
-| https://t.me/killnet_channel                 | Killnet Hacktivist Group             |
-| https://t.me/killnet_hacking                 | Killnet Hacktivist Group             |
-| https://t.me/Legion_Russia                   | Killnet Hacktivist Group             |
 | https://t.me/latest_leaks                    | Data Leaks, Tools                    |
 | https://t.me/leaked_databases                | Data Leaks, News                     |
 | https://t.me/leaklicks/                      | Data Leaks                           |
